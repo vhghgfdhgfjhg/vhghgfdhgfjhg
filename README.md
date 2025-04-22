@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash
 - 👀 I’m interested in frontend developing 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently intermediate
 - 💞️ I’m looking to collaborate with best company
 - 📫 How to reach me akashkn5140@gmail.com
 - 😄 Pronouns: ...
