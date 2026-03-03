@@ -1,258 +1,118 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Akash K N - Digital Business Card</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+<div align="center">
 
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
+<table align="center" border="1" bordercolor="#2196F3" cellpadding="20" cellspacing="0" width="850">
+  <tr>
+    <td align="center" width="35%">
+      <img src="https://github.com/vhghgfdhgfjhg.png" width="180" style="border-radius: 50%; border: 3px solid #2196F3;" alt="Akash K N Profile Picture">
+      <br><br>
+      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand"> <b>Hi, I'm Akash!</b>
+    </td>
+    <td width="65%">
+      <h1>Akash K N</h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&vCenter=true&width=500&lines=Frontend+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;MERN+Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+      </a>
+      <p>
+        🎯 <b>Frontend & MERN Stack Developer</b><br>
+        🚀 Building high-performance, scalable web apps.<br>
+        📍 Shivamogga, Karnataka, India 🇮🇳<br>
+        💼 <b>Immediate Joiner | Open to Opportunities</b>
+      </p>
+      <hr>
+      <p align="center">
+        <a href="mailto:akashkn5140@gmail.com"><img src="https://img.shields.io/badge/Email-akashkn5140%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+        <a href="https://linkedin.com/in/akash-k-n-6b4212282"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://akashknportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-        body {
-            font-family: 'Inter', sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-            color: #fff;
-        }
+<br>
+<p align="center"><i>✨ Click the sections below to explore my work ✨</i></p>
+<br>
 
-        /* Card Container */
-        .card-container {
-            width: 350px;
-            height: 500px;
-            perspective: 1000px;
-            cursor: pointer;
-        }
+</div>
 
-        /* Flip Animation */
-        .card-inner {
-            width: 100%;
-            height: 100%;
-            position: relative;
-            transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-            transform-style: preserve-3d;
-        }
+---
 
-        .card-container:hover .card-inner {
-            transform: rotateY(180deg);
-        }
+<details>
+  <summary><h2>🛠️ Tech Stack & Tools (Click to Expand)</h2></summary>
+  <br>
+  
+  **💻 Languages:**<br>
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
+  ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat-square)
 
-        /* Front and Back Shared Styles */
-        .card-front, .card-back {
-            width: 100%;
-            height: 100%;
-            position: absolute;
-            backface-visibility: hidden;
-            border-radius: 20px;
-            background: rgba(255, 255, 255, 0.05);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 30px 20px;
-            overflow: hidden;
-        }
+  **⚛️ Frontend:**<br>
+  ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
+  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+  ![Tailwind](https://img.shields.io/badge/TailwindCSS-skyblue?style=flat-square&logo=tailwind-css)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap)
 
-        /* --- FRONT OF CARD --- */
-        .profile-img {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            border: 3px solid #3b82f6;
-            margin-bottom: 20px;
-            object-fit: cover;
-            box-shadow: 0 0 20px rgba(59, 130, 246, 0.5);
-        }
+  **🔧 Backend & Tools:**<br>
+  ![Node](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
+  ![Express](https://img.shields.io/badge/Express-black?style=flat-square)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb)
+  ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git)
+  ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
+</details>
 
-        .name {
-            font-size: 24px;
-            font-weight: 800;
-            margin-bottom: 5px;
-            background: linear-gradient(90deg, #60a5fa, #a78bfa);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
+<hr>
 
-        .title {
-            font-size: 14px;
-            color: #cbd5e1;
-            margin-bottom: 20px;
-            text-align: center;
-        }
+<details>
+  <summary><h2>📌 Featured Projects (Click to Expand)</h2></summary>
+  <br>
 
-        .badges {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 25px;
-        }
+  ### 🏆 [Project Management System (MERN Stack)](https://vhghgfdhgfjhg-task-bridge-project-m.vercel.app/)
+  > JWT Authentication | Protected Routes | Real-time Dashboard Analytics
+  * **Impact:** 60% faster dashboard load time & 40% workflow efficiency improvement.
+  * **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS
+  * [🔗 Live Demo](https://vhghgfdhgfjhg-task-bridge-project-m.vercel.app/) | [🔗 GitHub Repo](https://github.com/vhghgfdhgfjhg/vhghgfdhgfjhg-Task-Bridge-Project_management_system.git)
 
-        .badge {
-            background: rgba(59, 130, 246, 0.2);
-            color: #60a5fa;
-            padding: 5px 10px;
-            border-radius: 12px;
-            font-size: 12px;
-            font-weight: 600;
-        }
+  ### 📊 [School Admin Dashboard](https://schooladmindashboard.netlify.app/)
+  > Advanced Data Visualization | Modular UI Architecture
+  * **Impact:** Achieved 95 Performance & 91 SEO Lighthouse scores.
+  * **Tech:** React, Recharts, Tailwind CSS
+  * [🔗 Live Demo](https://schooladmindashboard.netlify.app/)
 
-        .social-links {
-            display: flex;
-            gap: 15px;
-            margin-top: auto;
-        }
+  ### 🛒 [Swipe E-Commerce Platform](https://swipe-ecommerce-nine.vercel.app/)
+  > Global State Management | Real-time Notifications
+  * **Impact:** 91 Lighthouse Performance score. 
+  * **Tech:** React, Context API, Tailwind CSS
+  * [🔗 Live Demo](https://swipe-ecommerce-nine.vercel.app/) | [🔗 GitHub Repo](https://github.com/vhghgfdhgfjhg/swipe-ecommerce)
+</details>
 
-        .social-links a {
-            color: #fff;
-            text-decoration: none;
-            padding: 10px 15px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 10px;
-            transition: 0.3s;
-            font-size: 14px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
+<hr>
 
-        .social-links a:hover {
-            background: #3b82f6;
-            transform: translateY(-3px);
-        }
+<details>
+  <summary><h2>💼 Experience (Click to Expand)</h2></summary>
+  <br>
+  
+  ### Web Development Intern – Plasimd Innovations
+  * Built 5+ highly responsive web pages.
+  * Converted Figma designs to pixel-perfect UI.
+  * Ensured cross-browser compatibility.
 
-        .hint {
-            font-size: 11px;
-            color: #94a3b8;
-            margin-top: 20px;
-            opacity: 0.7;
-        }
+  ### Web Development Intern – Aadi Foundation
+  * Built a real-time Weather App using React.
+  * Integrated OpenWeather API for live data fetching.
+  * Managed complex state using React Hooks.
+</details>
 
-        /* --- BACK OF CARD --- */
-        .card-back {
-            transform: rotateY(180deg);
-            align-items: flex-start;
-            justify-content: center;
-        }
+<hr>
 
-        .section-title {
-            font-size: 18px;
-            font-weight: 600;
-            color: #a78bfa;
-            margin-bottom: 15px;
-            width: 100%;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-            padding-bottom: 5px;
-        }
+## 📈 GitHub Analytics
 
-        .skills-grid {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            margin-bottom: 25px;
-        }
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=vhghgfdhgfjhg&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
 
-        .skill-tag {
-            background: rgba(255, 255, 255, 0.1);
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-size: 12px;
-            border: 1px solid rgba(255, 255, 255, 0.05);
-        }
+<br>
 
-        .stats {
-            width: 100%;
-            margin-bottom: 20px;
-        }
-
-        .stat-item {
-            display: flex;
-            align-items: center;
-            margin-bottom: 10px;
-            font-size: 13px;
-            color: #cbd5e1;
-        }
-
-        .stat-item span {
-            color: #4ade80;
-            font-weight: bold;
-            margin-right: 8px;
-        }
-
-        .btn-hire {
-            width: 100%;
-            padding: 12px;
-            background: linear-gradient(90deg, #3b82f6, #8b5cf6);
-            color: white;
-            border: none;
-            border-radius: 10px;
-            font-weight: 600;
-            cursor: pointer;
-            text-align: center;
-            text-decoration: none;
-            transition: 0.3s;
-        }
-
-        .btn-hire:hover {
-            box-shadow: 0 0 15px rgba(139, 92, 246, 0.5);
-        }
-    </style>
-</head>
-<body>
-
-    <div class="card-container">
-        <div class="card-inner">
-            
-            <div class="card-front">
-                <img src="https://github.com/vhghgfdhgfjhg.png" alt="Akash K N" class="profile-img">
-                <h1 class="name">Akash K N</h1>
-                <p class="title">Frontend / MERN Stack Developer</p>
-                
-                <div class="badges">
-                    <span class="badge">React.js</span>
-                    <span class="badge">Next.js</span>
-                    <span class="badge">UI/UX</span>
-                </div>
-
-                <div class="social-links">
-                    <a href="https://akashknportfolio.netlify.app/" target="_blank">🌐 Portfolio</a>
-                    <a href="https://linkedin.com/in/akash-k-n-6b4212282" target="_blank">in LinkedIn</a>
-                    <a href="https://github.com/vhghgfdhgfjhg" target="_blank">💻 GitHub</a>
-                </div>
-                
-                <p class="hint">Hover or tap to view details ⤵</p>
-            </div>
-
-            <div class="card-back">
-                <h2 class="section-title">Top Skills</h2>
-                <div class="skills-grid">
-                    <span class="skill-tag">JavaScript</span>
-                    <span class="skill-tag">TypeScript</span>
-                    <span class="skill-tag">React</span>
-                    <span class="skill-tag">Node.js</span>
-                    <span class="skill-tag">TailwindCSS</span>
-                    <span class="skill-tag">MongoDB</span>
-                </div>
-
-                <h2 class="section-title">Highlights</h2>
-                <div class="stats">
-                    <div class="stat-item"><span>🚀</span> 95+ Lighthouse Scores</div>
-                    <div class="stat-item"><span>⚡</span> 60% App Performance Boost</div>
-                    <div class="stat-item"><span>🏆</span> Open to Immediate Joining</div>
-                </div>
-
-                <a href="mailto:akashkn5140@gmail.com" class="btn-hire">Contact Me</a>
-            </div>
-
-        </div>
-    </div>
-
-</body>
-</html>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" /> 
+  <i>If you like my work, consider starring my repositories!</i> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" />
+</div>
