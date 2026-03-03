@@ -1,6 +1,12 @@
-<!-- ===================== HERO SECTION ===================== -->
-<h1 align="center">Hi 👋, I'm Akash K N</h1>
-<h3 align="center">Frontend Developer | React • Next.js • TypeScript • MERN Stack</h3>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving Hand">, I'm Akash K N
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;MERN+Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:akashkn5140@gmail.com">
@@ -19,13 +25,13 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> About Me
 
-🎯 Frontend Developer with hands-on experience building **high-performance, scalable web applications**  
-⚛️ Specialized in **React.js, Next.js & TypeScript**  
-📊 Improved dashboard performance by **60%**  
-🚀 Achieved **95+ Lighthouse Performance scores**  
-💼 Actively seeking **Frontend / MERN Stack Developer roles**
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation">
+
+🎯 Frontend Developer with hands-on experience building **high-performance, scalable web applications** ⚛️ Specialized in **React.js, Next.js & TypeScript** 📊 Improved dashboard performance by **60%** 🚀 Achieved **95+ Lighthouse Performance scores** 💼 Actively seeking **Frontend / MERN Stack Developer roles**
+
+<br/>
 
 ---
 
@@ -56,33 +62,29 @@
 ### 🏆 Project Management System (MERN Stack)
 🔹 JWT Authentication & Protected Routes  
 🔹 Real-time Dashboard Analytics  
-🔹 **60% faster dashboard load time**  
-🔹 **40% workflow efficiency improvement**
+🔹 **60% faster dashboard load time** 🔹 **40% workflow efficiency improvement**
 
 **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS  
-🔗 Live Demo: https://vhghgfdhgfjhg-task-bridge-project-m.vercel.app/ 
+🔗 Live Demo: https://vhghgfdhgfjhg-task-bridge-project-m.vercel.app/  
 🔗 GitHub: https://github.com/vhghgfdhgfjhg/vhghgfdhgfjhg-Task-Bridge-Project_management_system.git
 
 ---
 
 ### 📊 School Admin Dashboard
 🔹 Advanced data visualization (Recharts)  
-🔹 **95 Performance & 91 SEO Lighthouse score**  
-🔹 Modular, scalable UI architecture  
+🔹 **95 Performance & 91 SEO Lighthouse score** 🔹 Modular, scalable UI architecture  
 
 **Tech:** React, Recharts, Tailwind CSS  
 🔗 Live Demo: https://schooladmindashboard.netlify.app/
-
 
 ---
 
 ### 🛒 Swipe E-Commerce Platform
 🔹 Global state management with Context API  
-🔹 **91 Lighthouse Performance score**  
-🔹 Real-time notifications using React Toastify  
+🔹 **91 Lighthouse Performance score** 🔹 Real-time notifications using React Toastify  
 
 **Tech:** React, Context API, Tailwind CSS  
-🔗 Live Demo: https://swipe-ecommerce-nine.vercel.app/ 
+🔗 Live Demo: https://swipe-ecommerce-nine.vercel.app/  
 🔗 GitHub: https://github.com/vhghgfdhgfjhg/swipe-ecommerce
 
 ---
@@ -122,10 +124,14 @@
 ## 📫 Contact Me
 
 📧 Email: akashkn5140@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/akash-k-n-6b4212282
-🌐 Portfolio: https://akashknportfolio.netlify.app/ 
+💼 LinkedIn: https://linkedin.com/in/akash-k-n-6b4212282  
+🌐 Portfolio: https://akashknportfolio.netlify.app/  
 
 ---
 
-### ⭐ Open to Opportunities | Immediate Joiner  
-If you like my work, consider ⭐ starring my repositories!
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" /> 
+  Open to Opportunities | Immediate Joiner 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" />
+</h3>
+<p align="center"><i>If you like my work, consider starring my repositories!</i></p>
