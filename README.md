@@ -101,14 +101,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vhghgfdhgfjhg&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhghgfdhgfjhg&layout=compact&theme=radical" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=vhghgfdhgfjhg&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -126,8 +122,8 @@
 ## 📫 Contact Me
 
 📧 Email: akashkn5140@gmail.com  
-💼 LinkedIn: YOUR_LINK  
-🌐 Portfolio: YOUR_PORTFOLIO_LINK  
+💼 LinkedIn: https://linkedin.com/in/akash-k-n-6b4212282
+🌐 Portfolio: https://akashknportfolio.netlify.app/ 
 
 ---
 
