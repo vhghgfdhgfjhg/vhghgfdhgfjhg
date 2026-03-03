@@ -12,7 +12,7 @@
 <p>
   <img src="https://img.shields.io/badge/💼_Open_to_Work-Available-success?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/🚀_Experience-2%2B_Years-blue?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/📍_Location-Mysuru%2C_India-orange?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/📍_Location-Bangalore%2C_India-orange?style=for-the-badge&labelColor=black" />
 </p>
 
 <!-- ===================== SOCIAL LINKS ===================== -->
