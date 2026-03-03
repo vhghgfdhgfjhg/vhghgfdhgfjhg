@@ -1,279 +1,294 @@
 <div align="center">
 
-<!-- ===================== ANIMATED HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akash%20K%20N&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<!-- ===================== PROFESSIONAL CARD HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50E3C2&height=120&section=header"/>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Frontend+Developer+%7C+React+Specialist;Building+Fast%2C+Scalable+Web+Applications;95%2B+Lighthouse+Scores+%7C+60%25+Performance+Boost" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akash+K+N;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Ready+to+Build+Amazing+Products!" alt="Typing SVG" />
 
-<!-- ===================== BADGES ===================== -->
-<p>
-  <img src="https://img.shields.io/badge/💼_Open_to_Work-Available-success?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/🚀_Experience-2%2B_Years-blue?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/📍_Location-Bangalore%2C_India-orange?style=for-the-badge&labelColor=black" />
-</p>
+<br>
 
-<!-- ===================== SOCIAL LINKS ===================== -->
-<p>
-  <a href="mailto:akashkn5140@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/akash-k-n-6b4212282">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/vhghgfdhgfjhg">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://akashknportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+<!-- ===================== DIGITAL BUSINESS CARD ===================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<table align="center">
+<tr>
+<td align="center" width="800">
 
-</div>
+## 💼 **DIGITAL BUSINESS CARD**
 
----
-
-## 🎯 **Professional Summary**
+<img src="https://img.shields.io/badge/📍_Mysuru,_Karnataka,_India-black?style=for-the-badge"/>
 
 ```yaml
-name: Akash K N
-role: Frontend Developer
-focus: React.js | Next.js | TypeScript | MERN Stack
-status: Actively seeking opportunities
-availability: Immediate Joiner
+👨‍💻 Role      : Frontend Developer
+🎓 Status    : Fresher | Immediate Joiner
+💻 Stack     : React • Next.js • TypeScript • MERN
+📈 Focus     : Performance & Scalability
+⚡ Strength  : 95+ Lighthouse Scores
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🔥 **Key Achievements**
-
-- 🚀 **60% Performance Improvement** in dashboard load times
-- 📊 Achieved **95+ Lighthouse Performance Scores**
-- ⚡ **40% Workflow Efficiency** boost in project management
-- 🎨 Built **5+ Production-Ready Web Applications**
-- 💻 Expertise in **Modern React Ecosystem**
-
-<br clear="right"/>
-
----
-
-## 🛠️ **Technology Arsenal**
-
-<div align="center">
-
-### **Frontend Mastery**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,html,css" />
-</p>
-
-### **Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql,postman" />
-</p>
-
-### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,figma" />
-</p>
-
-</div>
-
----
-
-## 💼 **Featured Projects**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏆 **Project Management System**
-<a href="https://vhghgfdhgfjhg-task-bridge-project-m.vercel.app/">
-  <img src="https://img.shields.io/badge/🔗_Live_Demo-Visit-success?style=for-the-badge" />
-</a>
-<a href="https://github.com/vhghgfdhgfjhg/vhghgfdhgfjhg-Task-Bridge-Project_management_system.git">
-  <img src="https://img.shields.io/badge/📦_Source_Code-GitHub-black?style=for-the-badge&logo=github" />
-</a>
-
-**🎯 Impact Metrics:**
-- ⚡ 60% faster dashboard loading
-- 📈 40% workflow efficiency boost
-- 🔐 JWT Authentication & Role-based Access
-
-**💻 Tech Stack:**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
 
-</td>
-<td width="50%">
+### **📞 CONTACT INFORMATION**
 
-### 📊 **School Admin Dashboard**
-<a href="https://schooladmindashboard.netlify.app/">
-  <img src="https://img.shields.io/badge/🔗_Live_Demo-Visit-success?style=for-the-badge" />
+<a href="mailto:akashkn5140@gmail.com">
+  <img src="https://img.shields.io/badge/📧_akashkn5140@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-**🎯 Impact Metrics:**
-- 🚀 Lighthouse: 95 Performance
-- 📊 SEO Score: 91
-- 📈 Advanced Data Visualization
-- 🎨 Modular UI Architecture
-
-**💻 Tech Stack:**
-<br>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-<img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 **Swipe E-Commerce Platform**
-<a href="https://swipe-ecommerce-nine.vercel.app/">
-  <img src="https://img.shields.io/badge/🔗_Live_Demo-Visit-success?style=for-the-badge" />
-</a>
-<a href="https://github.com/vhghgfdhgfjhg/swipe-ecommerce">
-  <img src="https://img.shields.io/badge/📦_Source_Code-GitHub-black?style=for-the-badge&logo=github" />
+<a href="https://linkedin.com/in/akash-k-n-6b4212282">
+  <img src="https://img.shields.io/badge/LinkedIn-Akash_K_N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-**🎯 Impact Metrics:**
-- 🚀 Lighthouse: 91 Performance
-- 🎯 Context API State Management
-- 🔔 Real-time Notifications
-- 🎨 Responsive Design
+<a href="https://akashknportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Projects-success?style=for-the-badge"/>
+</a>
 
-**💻 Tech Stack:**
-<br>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-
-</td>
-<td width="50%">
-
-### 🌦️ **Real-Time Weather App**
-**🎯 Features:**
-- 🌍 OpenWeather API Integration
-- ⚡ Real-time Data Updates
-- 🎨 Modern UI/UX
-- 📱 Mobile Responsive
-
-**💻 Tech Stack:**
-<br>
-<img src="https://skillicons.dev/icons?i=react,css" />
+<a href="https://github.com/vhghgfdhgfjhg">
+  <img src="https://img.shields.io/badge/GitHub-vhghgfdhgfjhg-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 💼 **Professional Experience**
-
-<details open>
-<summary><b>🚀 Web Development Intern - Plasimd Innovations</b></summary>
 <br>
 
-```diff
-+ Built 5+ responsive, production-ready web pages
-+ Converted Figma designs to pixel-perfect React components
-+ Ensured cross-browser compatibility (Chrome, Firefox, Safari, Edge)
-+ Collaborated with design team for seamless UI/UX implementation
-```
+<!-- ===================== QUICK STATS ===================== -->
 
-</details>
+<table align="center">
+<tr>
+<td align="center" width="200">
+  <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/><br>
+  <b>5+</b><br>
+  Live Projects
+</td>
+<td align="center" width="200">
+  <img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="50"/><br>
+  <b>60%</b><br>
+  Performance Boost
+</td>
+<td align="center" width="200">
+  <img src="https://img.icons8.com/fluency/96/000000/speed.png" width="50"/><br>
+  <b>95+</b><br>
+  Lighthouse Score
+</td>
+<td align="center" width="200">
+  <img src="https://img.icons8.com/fluency/96/000000/approval.png" width="50"/><br>
+  <b>2+</b><br>
+  Internships
+</td>
+</tr>
+</table>
 
-<details open>
-<summary><b>🌐 Web Development Intern - Aadi Foundation</b></summary>
 <br>
 
-```diff
-+ Developed real-time Weather Application using React
-+ Integrated RESTful APIs (OpenWeather API)
-+ Implemented state management with React Hooks
-+ Delivered project ahead of schedule
-```
+<!-- ===================== TECH STACK ===================== -->
 
-</details>
+### 🛠️ **TECH STACK**
 
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vhghgfdhgfjhg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vhghgfdhgfjhg&theme=tokyonight&hide_border=true&background=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhghgfdhgfjhg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vhghgfdhgfjhg&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
-
----
-
-## 🎯 **Why Hire Me?**
-
-<div align="center">
-
-| 💡 **Skill** | 🎯 **Value Proposition** |
-|-------------|-------------------------|
-| 🚀 **Performance-First** | Consistently achieve 90+ Lighthouse scores |
-| 💻 **Clean Code** | Write maintainable, scalable, well-documented code |
-| 📱 **Responsive Design** | Mobile-first approach for all projects |
-| ⚡ **Fast Delivery** | Quick learner with proven track record |
-| 🤝 **Team Player** | Excellent communication & collaboration skills |
-| 🎨 **UI/UX Focus** | Strong eye for design & user experience |
-
-</div>
-
----
-
-## 📈 **Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vhghgfdhgfjhg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff" width="100%"/>
-</div>
-
----
-
-## 🤝 **Let's Connect!**
-
-<div align="center">
-
-### 💬 **Open for Opportunities | Immediate Joiner**
-
-<p>
-  <a href="mailto:akashkn5140@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-akashkn5140%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,tailwind,bootstrap,git,github,vercel,vscode,figma&perline=7" />
 </p>
 
-<p>
-  <a href="https://linkedin.com/in/akash-k-n-6b4212282">
-    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-Akash_K_N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<br>
+
+<!-- ===================== FEATURED WORK ===================== -->
+
+## 🎯 **FEATURED WORK**
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 **Task Bridge**
+*Project Management System*
+
+**⚡ Impact:**
+- 60% faster loading
+- JWT Authentication
+- Real-time analytics
+
+**💻 Stack:**
+`React` `Node.js` `MongoDB` `Tailwind`
+
+<a href="https://vhghgfdhgfjhg-task-bridge-project-m.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel"/>
+</a>
+<a href="https://github.com/vhghgfdhgfjhg/vhghgfdhgfjhg-Task-Bridge-Project_management_system.git">
+  <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 **Admin Dashboard**
+*School Management System*
+
+**⚡ Impact:**
+- 95 Performance Score
+- 91 SEO Score
+- Advanced Charts
+
+**💻 Stack:**
+`React` `Recharts` `Tailwind CSS`
+
+<a href="https://schooladmindashboard.netlify.app/">
+  <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 **Swipe Store**
+*E-Commerce Platform*
+
+**⚡ Impact:**
+- 91 Performance Score
+- Context API State
+- Toast Notifications
+
+**💻 Stack:**
+`React` `Context API` `Tailwind`
+
+<a href="https://swipe-ecommerce-nine.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel"/>
+</a>
+<a href="https://github.com/vhghgfdhgfjhg/swipe-ecommerce">
+  <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ **Weather App**
+*Real-time Weather Tracker*
+
+**⚡ Impact:**
+- Live API Integration
+- React Hooks
+- Responsive Design
+
+**💻 Stack:**
+`React` `OpenWeather API` `CSS3`
+
+<a href="https://github.com/vhghgfdhgfjhg">
+  <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== EXPERIENCE TIMELINE ===================== -->
+
+## 💼 **EXPERIENCE**
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🚀 **Plasimd Innovations**
+*Web Development Intern*
+
+✅ Built 5+ responsive web pages  
+✅ Figma to React conversion  
+✅ Cross-browser compatibility  
+✅ Pixel-perfect implementation  
+
+</td>
+<td width="50%">
+
+### 🌐 **Aadi Foundation**
+*Web Development Intern*
+
+✅ Real-time Weather App  
+✅ API Integration  
+✅ React Hooks & State  
+✅ Modern UI/UX  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== WHAT I OFFER ===================== -->
+
+## ✨ **WHAT I BRING**
+
+<p align="center">
+<img src="https://img.shields.io/badge/⚡_Performance_Optimization-Expert-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎨_Clean_Code-Professional-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📱_Responsive_Design-Mobile--First-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Fast_Learner-Quick_Adaptor-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤝_Team_Player-Collaborative-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💡_Problem_Solver-Analytical-yellow?style=for-the-badge"/>
 </p>
 
-<p>
-  <a href="https://akashknportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-Live_Projects-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+<br>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 **GITHUB STATS**
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vhghgfdhgfjhg&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=50E3C2"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vhghgfdhgfjhg&theme=react&hide_border=true&background=0D1117&ring=4A90E2&fire=50E3C2&currStreakLabel=50E3C2"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhghgfdhgfjhg&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2"/>
+</p>
 
-### ⭐ **If you like my work, consider starring my repositories!**
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- ===================== CALL TO ACTION ===================== -->
+
+<table align="center">
+<tr>
+<td align="center" width="800">
+
+## 🎯 **READY TO CONTRIBUTE**
+
+### 💼 **Actively Seeking Frontend Developer Opportunities**
+
+<img src="https://img.shields.io/badge/Status-Available_for_Immediate_Joining-success?style=for-the-badge&logo=checkmarx"/>
+
+<br><br>
+
+### **📞 LET'S CONNECT**
+
+<p>
+<a href="mailto:akashkn5140@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/akash-k-n-6b4212282">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://akashknportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+
+<br>
+
+*"Passionate about building user-centric web applications with clean code and exceptional performance"*
+
+<br>
+
+### ⭐ **Open to collaborations and exciting opportunities!**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== FOOTER ===================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50E3C2&height=120&section=footer"/>
 
 </div>
