@@ -161,22 +161,6 @@
 </td>
 <td width="50%" valign="top">
 
-### 🌦️ **Weather App**
-*Real-time Weather Tracker*
-
-**⚡ Impact:**
-- Live API Integration
-- React Hooks
-- Responsive Design
-
-**💻 Stack:**
-`React` `OpenWeather API` `CSS3`
-
-<a href="https://github.com/vhghgfdhgfjhg">
-  <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
 </tr>
 </table>
 
