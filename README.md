@@ -13,7 +13,7 @@
 <tr>
 <td align="center" width="800">
 
-## 💼 **DIGITAL BUSINESS CARD**
+## 💼 **DIGITAL CARD**
 
 <img src="https://img.shields.io/badge/📍_Bangalore,_Karnataka,_India-black?style=for-the-badge"/>
 
